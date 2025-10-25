@@ -26,6 +26,14 @@
         "lon": -1.5539,
         "tolerance_m": 10,
         "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/naoned/t3.jpg"
+      },
+      {
+        "totem_id": "t4",
+        "totem_name": "t4",
+        "lat": 47.216411,
+        "lon": -1.57309,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/naoned/t4.jpg"
       }
     ]
   },
