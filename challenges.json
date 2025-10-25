@@ -1,0 +1,184 @@
+```json name=challenges.json url=https://github.com/sebroy1250/totem-hunter-content/blob/main/challenges.json
+[
+  {
+    "challenge_id": "naoned",
+    "challenge_name": "NAONED",
+    "totems": [
+      {
+        "totem_id": "t1",
+        "totem_name": "t1",
+        "lat": 47.2186,
+        "lon": -1.5539,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/naoned/t1.jpg"
+      },
+      {
+        "totem_id": "t2",
+        "totem_name": "t2",
+        "lat": 47.2186,
+        "lon": -1.5539,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/naoned/t2.jpg"
+      },
+      {
+        "totem_id": "t3",
+        "totem_name": "t3",
+        "lat": 47.2186,
+        "lon": -1.5539,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/naoned/t3.jpg"
+      }
+    ]
+  },
+  {
+    "challenge_id": "mesquer",
+    "challenge_name": "MESQUER",
+    "totems": [
+      {
+        "totem_id": "Totem1",
+        "totem_name": "Totem1",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem1.jpg"
+      },
+      {
+        "totem_id": "Totem11",
+        "totem_name": "Totem11",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem11.jpg"
+      },
+      {
+        "totem_id": "Totem12",
+        "totem_name": "Totem12",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem12.jpg"
+      },
+      {
+        "totem_id": "Totem13",
+        "totem_name": "Totem13",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem13.jpg"
+      },
+      {
+        "totem_id": "Totem14",
+        "totem_name": "Totem14",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem14.jpg"
+      },
+      {
+        "totem_id": "Totem15",
+        "totem_name": "Totem15",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem15.jpg"
+      },
+      {
+        "totem_id": "Totem16",
+        "totem_name": "Totem16",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem16.jpg"
+      },
+      {
+        "totem_id": "Totem2",
+        "totem_name": "Totem2",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem2.jpg"
+      },
+      {
+        "totem_id": "Totem3",
+        "totem_name": "Totem3",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem3.jpg"
+      },
+      {
+        "totem_id": "Totem4",
+        "totem_name": "Totem4",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem4.jpg"
+      },
+      {
+        "totem_id": "Totem5",
+        "totem_name": "Totem5",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem5.jpg"
+      },
+      {
+        "totem_id": "Totem6",
+        "totem_name": "Totem6",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem6.jpg"
+      },
+      {
+        "totem_id": "Totem7",
+        "totem_name": "Totem7",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem7.jpg"
+      },
+      {
+        "totem_id": "Totem8",
+        "totem_name": "Totem8",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/Totem8.jpg"
+      },
+      {
+        "totem_id": "t1",
+        "totem_name": "t1",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/t1.jpg"
+      },
+      {
+        "totem_id": "t2",
+        "totem_name": "t2",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/t2.jpg"
+      },
+      {
+        "totem_id": "t3",
+        "totem_name": "t3",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/t3.jpg"
+      },
+      {
+        "totem_id": "t4",
+        "totem_name": "t4",
+        "lat": 47.3120,
+        "lon": -2.4680,
+        "tolerance_m": 10,
+        "image_url": "https://raw.githubusercontent.com/sebroy1250/totem-hunter-content/main/mesquer/t4.jpg"
+      }
+    ]
+  }
+]
+```
